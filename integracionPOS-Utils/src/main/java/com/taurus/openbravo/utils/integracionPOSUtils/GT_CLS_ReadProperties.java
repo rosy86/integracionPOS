@@ -10,6 +10,7 @@ public class GT_CLS_ReadProperties {
 	public static String getPropertieValue(String key) throws IOException{
 		Properties propiedades = new Properties();
 		InputStream entrada = null;		
+		
 		entrada = new FileInputStream("config.properties");
 		// cargamos el archivo de propiedades
 		propiedades.load(entrada);

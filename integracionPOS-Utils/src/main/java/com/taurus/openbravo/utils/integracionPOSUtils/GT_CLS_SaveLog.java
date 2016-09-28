@@ -20,6 +20,7 @@ public class GT_CLS_SaveLog {
 	public static void guardarArchivo(List<String> lineas) {
 		FileWriter fw = null;
 		PrintWriter pw = null;
+		
 		try {
 			String path = "log/";
 			File directorio = new File(path);
