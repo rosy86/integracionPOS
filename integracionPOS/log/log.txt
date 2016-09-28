@@ -1,0 +1,12 @@
+﻿El producto no se insertó:  BONA002_BX
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+----------------------------------------------------------
+
+El producto no se insertó:  BONA002_BX
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+13/04/2016 16:17:44.633
+----------------------------------------------------------
+El producto no se insertó:  ACCO0003_PCE
+Alguno(s) de los siguientes: [Unidad de medida, Grupo de producto, Impuesto clave] no fueron encontrados en OpenBravo
+14/04/2016 15:59:34.77
+--------------------------------------------------------------------------------
