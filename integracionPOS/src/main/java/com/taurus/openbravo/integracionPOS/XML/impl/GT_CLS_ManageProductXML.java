@@ -17,6 +17,8 @@ import com.taurus.openbravo.integracionPOS.main.GT_CLS_Base;
 import com.taurus.openbravo.utils.integracionPOSUtils.GT_CLS_ReadProperties;
 import com.taurus.openbravo.utils.integracionPOSUtils.GT_CLS_SaveLog;
 
+
+
 public class GT_CLS_ManageProductXML extends GT_CLS_Base implements GT_CLS_XMLServiceInterface<GT_CLS_Producto> {
 
 	public String agregarActualizar(String xml, boolean isNuevo, String entidad) {
