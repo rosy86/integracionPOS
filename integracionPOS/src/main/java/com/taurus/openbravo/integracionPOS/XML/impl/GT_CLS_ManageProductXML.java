@@ -104,7 +104,10 @@ public class GT_CLS_ManageProductXML extends GT_CLS_Base implements GT_CLS_XMLSe
 				producto.setCodigoBarraPrincipal(mapaUmCodigoBarraNew.get(uomSearchKey).get("Principal").get(0));
 				producto.setCodigosBarrasSec(mapaUmCodigoBarraNew.get(uomSearchKey).get("Otros"));
 				producto.setSucursal(sucursal);
+				
 				listaProductos.add(producto);
+				
+				
 			}
 			for (GT_CLS_Producto producto : listaProductos) {
 				String id = null;
