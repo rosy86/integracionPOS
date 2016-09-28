@@ -13,6 +13,7 @@ public class GT_CLS_ReadProperties {
 		
 		entrada = new FileInputStream("config.properties");
 		// cargamos el archivo de propiedades
+		
 		propiedades.load(entrada);
 		// obtenemos la propiedad y la regresamos
 		return propiedades.getProperty(key);
